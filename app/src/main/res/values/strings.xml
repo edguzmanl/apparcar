@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Actividad1</string>
+    <string name="btnLogin">Iniciar</string>
+    <string name="btnReg">Registrar</string>
+    <string name="nombre">Nombre de Usuario</string>
+    <string name="perfil">Perfil de Usuario</string>
+    <string name="titulo1">Ingreso de Usuarios</string>
+    <string name="titulo2">Registro de Usuarios</string>
+    <string name="id_usuario">Identificación del Usuario</string>
+    <string name="nom_usuario">Nombre completo</string>
+    <string name="id_producto">Código</string>
+    <string name="des_producto">Descripción</string>
+    <string name="precio_producto">Precio </string>
+    <string name="des_menu">Menú de Opciones </string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="password">Password</string>
+</resources>
